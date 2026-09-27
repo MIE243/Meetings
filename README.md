@@ -48,3 +48,35 @@
 4. Document the relationship between 4×4 and AWD. The initial plan is to modify the AWD concept based on the 4×4 design. The meaning of “different conceptual designs” still requires clarification, and Mo has sent an email asking about it.
 5. Explore GitHub Projects and improve the current project board.
 6. Hold the next meeting at 9:00 p.m. on September 25.
+
+## September 25, 2026 — 7:00 p.m.
+
+### Discussion
+
+1. Read the project document and discuss the engineering specifications.
+2. Give a simple explanation of each section of the engineering specifications.
+3. Discuss the first check-in, scheduled for October 7.
+4. Discuss project-management roles.
+
+### Engineering Specification Assignments
+
+| Team Member | Assigned Sections |
+| --- | --- |
+| Mo Zhou | Scope; Existing Designs |
+| Hongru Liu | Project Overview and Design Goals; Service Environment; Interest Holders; Production |
+| Shangkai Ji | Context; Design Goals |
+
+### Project Management Roles
+
+| Team Member | Roles |
+| --- | --- |
+| Mo Zhou | CAD Design Owner; Developer |
+| Hongru Liu | Scrum Master; Developer |
+| Shangkai Ji | Design Owner; Meeting Recorder |
+
+## September 26, 2026 — 4:40 p.m.
+
+### Action Items
+
+1. Contact the new teammate.
+2. Introduce the team and project to the new teammate.
