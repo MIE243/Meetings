@@ -80,3 +80,40 @@
 
 1. Contact the new teammate.
 2. Introduce the team and project to the new teammate.
+
+## September 28, 2026 — Tutorial Section
+
+### GitHub Workflow
+
+- Mo provided guidance for transferring and updating work on GitHub. Each personal task should be completed on a personal branch so the team can review and modify it later.
+
+### Questions for the TA
+
+1. **Engineering specification:** The TA said that the specification was carefully prepared but unnecessarily complicated. Following the format and level of detail in Tutorial 2 is sufficient, so the document should be simplified.
+2. **Project board:** After reviewing the board, the TA confirmed that the team's approach and method were feasible.
+3. **Vehicle options:** For categories containing several alternatives, such as differentials, transfer cases and CVTs, the team does not need to include every option but should document at least two.
+
+## September 28, 2026 — 7:00 p.m.
+
+### Discussion and Decisions
+
+1. Review the previous tutorial notes and improve the engineering specification.
+2. Structure Engineering Specification v0 similarly to the APS112 ESP example.
+3. In Engineering Specification v1, remove or simplify material with limited relevance to the engineering specification, including the problem statement and scope.
+4. Focus the revised specification on four sections: Demonstration; Operation and Modularity; Input, Size and Steering; and Safety, Cost and Lifecycle.
+5. Complete these four sections by September 30, then hold a meeting to discuss and review them before the first check-in on October 7.
+
+### Engineering Specification Assignments
+
+| Team Member | Assigned Sections |
+| --- | --- |
+| Mo Zhou | Transfer Case |
+| Hongru Liu | Input, Size and Steering; Operation and Modularity |
+| Shangkai Ji | Safety, Cost and Lifecycle |
+| Peiwen Sun | Demonstration |
+
+## September 30, 2026 — 8:00 p.m.
+
+### Scheduling Decision
+
+- Peiwen Sun would not be available until 9:00 p.m. Shangkai Ji considered that too late and proposed moving the meeting to Thursday evening. All group members agreed.
