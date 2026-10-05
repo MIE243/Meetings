@@ -117,3 +117,68 @@
 ### Scheduling Decision
 
 - Peiwen Sun would not be available until 9:00 p.m. Shangkai Ji considered that too late and proposed moving the meeting to Thursday evening. All group members agreed.
+
+## October 1, 2026 — 8:00 p.m.
+
+### Engineering Specification
+
+- The team discussed the engineering specification and the first check-in requirements. It was unclear whether “core design problems” needed to be included. The team decided that this material could be added after the first check-in and would not be a current priority.
+
+### Demonstration Concepts
+
+- **Transfer case**
+  - Demonstrate the torque and speed differences between high and low ranges using elevation, slopes or different carried weights.
+  - Compare 2WD and 4WD by lifting two wheels off the ground or driving over obstacles.
+  - An electric motor or similar automatic input could power obstacle-crossing demonstrations.
+  - Compare an open and locked centre differential:
+    - During a tight turn with the differential locked, the front and rear axles slip relative to each other because they travel different distances.
+    - When one axle is on a very low-grip surface, an open differential provides little usable torque, while a locked differential allows the vehicle to move.
+  - Demonstrate neutral by turning the axles or wheels by hand to show that they spin freely.
+- **Differential**
+  - Show the left- and right-wheel speed difference during a turn.
+- **Drivetrain**
+  - Compare rear-wheel-drive 2WD with 4WD.
+
+### Demonstration Methods
+
+Each major component, including the centre transfer case and the front and rear differentials, should be individually removable for demonstration.
+
+1. **Obstacle course:** Use connectable road sections to create curves, rough terrain and ramps.
+   - Best represents real-world conditions.
+   - An electrical input powers the transfer case while students interact with the vehicle and terrain.
+   - Include simple steering.
+2. **Electrical belt or roller bench:** Simulate the ground beneath each wheel while the vehicle remains stationary.
+   - Use a stopper, force gauge or another restraint to prevent movement and possibly display torque differences.
+3. **Stationary hand-cranked model:** Use no steering or vehicle movement; students observe differences in wheel speed while turning the input by hand.
+4. **Pivot-arm test:** Tether the motor-powered vehicle to a pivot arm so it drives in a circle with an adjustable radius.
+   - Differential locking can be demonstrated by observing wheel slip.
+5. **Rotating ground disc:** Fix the vehicle in place above a rotating disc that represents turning ground, allowing students to observe the differentials working.
+
+### Assignment Distribution
+
+| Team Member | Assignment |
+| --- | --- |
+| Hongru Liu and Peiwen Sun | Produce hand-drawn illustrations for Demonstration Method 1. |
+| Mo Zhou | Create CAD concepts for all demonstration methods except Method 1. |
+| Shangkai Ji | Assist Mo with the CAD design and develop further CAD knowledge. |
+
+## October 5, 2026 — Tutorial Section
+
+### First Check-In Preparation
+
+The team reviewed what was still missing for the first check-in:
+
+1. Add labels to each task on the GitHub project board.
+2. Add priorities to each task on the GitHub project board.
+3. Update the meeting record.
+4. Add Mo's remaining CAD images.
+5. Copy the scope and problem statement from Engineering Specification v0.
+6. Add references for relevant numerical values in the engineering specification where possible.
+
+### Information Gathering and Review
+
+- In the afternoon, ask the group that completed its check-in on Monday what questions were asked. Use this information during an evening meeting to review and improve the team's first check-in preparation.
+
+### Check-In Rehearsal
+
+- On Wednesday, all four team members will meet one hour early to work together and become familiar with the check-in process.
