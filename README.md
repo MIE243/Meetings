@@ -182,3 +182,55 @@ The team reviewed what was still missing for the first check-in:
 ### Check-In Rehearsal
 
 - On Wednesday, all four team members will meet one hour early to work together and become familiar with the check-in process.
+
+## October 6, 2026 — 8:30 p.m.
+
+### First Check-In Presentation Plan
+
+The team discussed the content, speaking assignments and presentation order for the first check-in.
+
+1. **Introduction — Shangkai Ji**
+   - Introduce Group 19 and its members.
+   - Give a brief outline of the presentation:
+     - Engineering specification.
+     - Three candidate designs that use different methods to demonstrate the requirements in the engineering specification.
+     - A conceptual CAD model of the proposed teaching vehicle.
+2. **Engineering Specification — Shangkai Ji**
+   - Explain the project scope, including the goal of using 3D-printed and relatively accessible components.
+   - Give a brief overview of the detailed requirements.
+3. **Conceptual CAD — Mo Zhou**
+   - Explain that all candidate designs share a common vehicle model with minor differences in how each mechanism is demonstrated in different environments.
+   - Explain the purposes of the v0 CAD:
+     - Determine how the components fit together beyond the initial research.
+     - Better understand how the mechanisms move.
+     - Identify potential issues that may not be apparent from research alone.
+   - Demonstrate what the current CAD can already show:
+     - Steering motion using joints.
+     - The different transfer-case modes, with further details available on GitHub.
+     - The mode sleeve, range sleeve and centre-differential lock.
+   - Note that some candidate designs may use a simpler vehicle, such as one without steering.
+4. **Candidate Design 1 — Hongru Liu**
+   - Present an obstacle course with curved, rough and ramped terrain that uses the surroundings to demonstrate vehicle operation.
+   - Explain that this design most closely represents real-world conditions.
+   - Use electrical power as the transfer-case input while students interact with the vehicle and terrain.
+   - Use connectable road sections:
+     - Ramp section for demonstrating high and low range.
+     - Smooth-road section.
+     - Rough-road section.
+     - Curved-road section.
+   - Include simple steering.
+5. **Candidate Design 2 — Peiwen Sun**
+6. **Candidate Design 3 — Peiwen Sun**
+7. **GitHub Board and Project Management — Mo Zhou**
+   - Show the GitHub project board, including its sections, sprint tags and Agile tags.
+   - Explain why the team uses GitHub:
+     - The team is comfortable using it.
+     - It clearly organizes the project's different repositories.
+     - Its version-control tools provide a visible commit history.
+     - The project structure uses repositories, branches, pull requests, Markdown and Obsidian.
+     - Pull requests and GitHub issues support review and version control.
+8. **Plans for the Next Iteration**
+   - Improve modularity.
+   - Develop the v1 CAD with proper sizing and calculations while retaining simplified gear models for now.
+   - Continue work on safety, lifecycle and cost.
+   - Consider locking front and rear differentials.
